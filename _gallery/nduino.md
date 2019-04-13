@@ -6,9 +6,8 @@ caption: 'Το Nduino είναι μια συσκευή μέτρησης της �
 license_url: 'https://unsplash.com/photos/ogxlyCA1BQc'
 license_text: Courtesy of Frank Wang on Unsplash
 categories:
-  - archetypes
+  - Tool
 tags:
   - Arduino
   - Sensor
-  - Agriculture
 ---
