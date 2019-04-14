@@ -17,7 +17,7 @@ name                     : "mibook"
 description              : "Making Interactivity Greek Book."
 url                      : "https://midipetit.github.io"
 baseurl                  : "/gr"
-repository               : "mibook/gr"
+repository               : "midipetit/gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
