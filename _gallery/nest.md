@@ -7,7 +7,7 @@ license_url : By Amanitamano - Own work, CC BY-SA 3.0, https://commons.wikimedia
 license_text: Courtesy of Wikimedia
 categories:
   - preface
- tags:
+tags:
   - smart home
   - thermostat
   - nest
