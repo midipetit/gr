@@ -264,7 +264,7 @@ defaults:
       share: true
       related: true
   - scope:
-      path: ""
+      path: "https://midipetit.github.io/gr/gallery/"
       type: gallery
     values:
       layout: gallery-figure
