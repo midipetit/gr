@@ -7,7 +7,7 @@ license_url : https://search.creativecommons.org
 license_text: Courtesy of CC BY-NC 2.0 
 categories:
   - Archetypes
-  -Input-device
+  - Input-device
 tags:
   - keyboard
   - touchpad
