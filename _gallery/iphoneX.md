@@ -9,6 +9,5 @@ categories:
   - Archetypes
 tags:
   - apple
-  - iphone
   - iphoneX
 ---
