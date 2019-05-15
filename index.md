@@ -25,6 +25,8 @@ excerpt: 'Σχεδιασμός και κατασκευή συνεργατικώ�
 
   {% include feature_col.html id="case-study" type="right" index=random %}
   
-  {% include twitter.html id= "tweet" %}
+  {% include twittertimeline.html id= "tweet" %}
+  
+  {% include followbutton.html id= "tweet" %}
 
 <div>
